@@ -1,0 +1,57 @@
+html{
+    scroll-behavior: smooth;
+    align-content: center;
+}
+body{
+    text-align: center;
+     background: white;
+    text-decoration-color: black;
+    align-content: center;
+}
+section {
+    color: black;
+    bottom: 0;
+    background: white;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+marquee{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;  
+    margin-bottom: 60px;
+}
+iframe{
+    width: 80%;
+}
+hr{
+    width: 100%;
+}
+p{
+    margin-left: 20px;
+    font-size: 15px;
+}
+.logo-image{
+    width: 46px;
+    height: 46px;
+    overflow: hidden;
+    margin-top: -6px;
+}
+#introimg{
+    margin-top: 10px;
+    height: 500px;
+    width 600px;
+}
